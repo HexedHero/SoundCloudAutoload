@@ -37,8 +37,8 @@ function inject() {
             'border-style: none;' +
             'border-radius: 50%;' +
             'box-shadow: none;' +
-            'margin-top: 6em;' +
-            'margin-left: 1.75em;' +
+            'margin-top: 3em;' +
+            'margin-left: 0.96em;' +
         '}' +
         '.autoload_button button:hover {' +
             'background-color: #ff3300;' +
