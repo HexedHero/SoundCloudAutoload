@@ -2,7 +2,7 @@
     
     "name": "SoundCloud Autoload",
     "author": "HexedHero",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Loads all your songs in your SoundCloud playlist.",
     "manifest_version": 3,
 
